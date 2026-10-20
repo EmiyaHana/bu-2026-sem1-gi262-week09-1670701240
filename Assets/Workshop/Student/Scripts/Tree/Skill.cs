@@ -67,4 +67,3 @@ using UnityEngine;
             this.rootSkill = rootSkill;
         }
     }
-
